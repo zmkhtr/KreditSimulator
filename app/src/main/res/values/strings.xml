@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestLogique</string>
+    <string name="kredit_simulator">Kredit Simulator</string>
+    <string name="harga">Harga</string>
+    <string name="kendaraan">Kendaraan</string>
+    <string name="dp">DP</string>
+    <string name="foto_pemohon">Foto Pemohon</string>
+    <string name="hitung">Hitung</string>
+    <string name="kredit_detail">Kredit Detail</string>
+    <string name="tenor">Tenor</string>
+    <string name="angsuran">Angsuran</string>
+    <string name="simulasi_baru">Simulasi Baru</string>
+</resources>
